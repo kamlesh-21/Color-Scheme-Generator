@@ -62,3 +62,10 @@ p{
     font-size: small;
     font-weight: 500;
     }
+    @media (min-width: 767px){
+        body{
+            width: 850px;
+            margin-right: auto;
+            margin-left: auto;
+        }
+    }
